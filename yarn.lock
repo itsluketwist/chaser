@@ -1891,10 +1891,10 @@
   resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.4.4.tgz#11d5db19bd178936ec89cd84519c4de439574398"
   integrity sha512-1oO6+dN5kdIA3sKPZhRGJTfGVP4SWV6KqlMOwry4J3HfyD68sl/3KmG7DeYUzvN+RbhXDnv/D8vNNB8168tAMg==
 
-"@prismicio/client@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@prismicio/client/-/client-4.0.0.tgz#45e5e8651b72b747ce4e21db04eae0b96139615a"
-  integrity sha512-3rGie+Banm61hOQcKF75+TI8oquVDT2PyX05ho2eRKdiMu0i4raHVJCuIAGBs/CDCuVXes2h/rnfRs+eKfq7XQ==
+"@prismicio/client@^5.0.0":
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/@prismicio/client/-/client-5.0.0.tgz#b70c823885ef60db6ec2fddba85bfc5453e4f9e7"
+  integrity sha512-hlNAAExpzuo2QYmVHHAgUTE13O8jcwcedx8LIRjPvj53bkHs26KhWd+BlK9CEnBY+Dv4cZVuIREZdjDmi6+0mw==
   dependencies:
     cross-fetch "^3.0.6"
 
